@@ -3,6 +3,13 @@
 ## MIDTERM PROJECT
 Dựa trên dữ liệu của ngân hàng Ấn Độ phân tích rủi ro trong việc cho vay.
 
+## LINK DEMO
+<div align='center'>
+
+[Click vào đây để xem chi tiết](https://ecommerce.yamiannephilim.com)
+
+</div>
+
 ### HÌNH ẢNH DEMO
 <p align="center">
 <img src='https://raw.githubusercontent.com/Nihgi-DA08/Midterm-Project/main/pic/0.jpg'></img>
